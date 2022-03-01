@@ -1,0 +1,92 @@
+{
+  "tweets": [
+    {
+      "sender": {
+        "name": "samsung",
+        "id": "@samsung",
+        "img": "images/user-img.jpg"
+      },
+      "text": "در مورد خاینه تیتبن صضثصث کیببئ کبنفحف نلننلئ لن ملنل ملن #صبحانه بمبکثکص.",
+      "likes": 5
+    },
+    {
+      "sender": {
+        "name": "lg",
+        "id": "@lg",
+        "img": "images/user-img.jpg"
+      },
+      "text": "در مورد خاینه تیتبن صضثصث کیببئ کبنفحف نلننلئ لن ملنل ملن ملنلململثصچضچیک بمبکثکص.",
+      "likes": 5
+    },
+    {
+      "sender": {
+        "name": "siamak",
+        "id": "@siamak",
+        "img": "images/user-img.jpg"
+      },
+      "text": "در مورد خاینه تیتبن صضثصث کیببئ کبنفحف نلننلئ لن ملنل ملن ملنلململثصچضچیک بمبکثکص.",
+      "likes": 5
+    },
+    {
+      "sender": {
+        "name": "base",
+        "id": "@base",
+        "img": "images/user-img.jpg"
+      },
+      "text": "در مورد خاینه تیتبن صضثصث کیببئ کبنفحف نلننلئ لن ملنل ملن ملنلململثصچضچیک بمبکثکص.",
+      "likes": 5
+    },
+    {
+      "id": 429,
+      "sender": {
+        "name": "sepsep",
+        "id": "@sepsep",
+        "img": "images/user-img.jpg"
+      },
+      "text": "دوره ی یادگیری #ری_اکت ",
+      "likes": 9
+    },
+    {
+      "id": 721,
+      "sender": {
+        "name": "sepsep",
+        "id": "@sepsep",
+        "img": "images/user-img.jpg"
+      },
+      "text": "توییت جدید با ساهتار حدید\n\n",
+      "likes": 9
+    }
+  ],
+  "hashTags": [
+    "پرچم_دار_جدید",
+    "کرونا_ویروس",
+    "سامسونگ",
+    "هلو_سامر",
+    "پرچم_دار_جدید",
+    "کرونا_ویروس",
+    "سامسونگ",
+    "هلو_سامر"
+  ],
+  "users": [
+    {
+      "name": "Xiaomi",
+      "id": "@Xiaomi",
+      "img": "images/xiaomi.png"
+    },
+    {
+      "name": "samsung",
+      "id": "@samsung",
+      "img": "images/xiaomi.png"
+    },
+    {
+      "name": "علیبابا",
+      "id": "@alibaba",
+      "img": "images/xiaomi.png"
+    },
+    {
+      "name": "Xiaomi",
+      "id": "@Xiaomi",
+      "img": "images/xiaomi.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+@import url(shabnam.css);
+body{
+    margin: 0;
+    direction: rtl;
+    font-family: Shabnam, serif !important;
+}
+
+.editable:empty:before {
+    content: attr(data-placeholder);
+    color: #999999;
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+}
+
+a:visited {
+    color: unset;
+}
